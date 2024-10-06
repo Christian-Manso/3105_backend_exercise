@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "Christian",
+    "password": "lone_wolf1234567",
+    "email": "christianmanso@gmail.com"
+  },
+  {
+    "id": 2,
+    "username": "Joselito",
+    "password": "homo",
+    "email": "test123@gmail.com"
+  },
+  {
+    "id": 3,
+    "username": "Simone",
+    "password": "abcdef",
+    "email": "simonemontanez@gmail.com"
+  },
+  {
+    "id": 4,
+    "username": "Rey",
+    "password": "bike",
+    "email": "rey@gmail.com"
+  }
+]
